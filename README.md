@@ -1,4 +1,0 @@
-GitTut
-======
-
-Git Tut
